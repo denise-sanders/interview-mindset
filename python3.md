@@ -25,10 +25,11 @@ Map(func, iterable) returns map object of result of the func applied to each ele
 Filter(func, iterable) returns filter object of each element in the iterable for which func returns True for
 
 Mutable v Immutable
+
 | Mutable       | Immutable     |
-| | |
+| ------------- | ------------- |
 | set      | frozen-set |
-| dict      | there are workarounds |
+| dict      |  |
 | lists |   tuple  |
-|  |   string  |
+| (use a list) |   string  |
 | byte array | int, float, long, complex, bytes |
