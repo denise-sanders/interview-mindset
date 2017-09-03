@@ -17,3 +17,4 @@ When given a problem, it's time to ask yourself/your interviewer questions. Thin
 - If it something repeatable, should it be optimized for multiple searches/calls?
 - Are we more worried about space/time?
 - Is this/what is an example of this problem?
+- Make a general rule/case, and ask if it is correct. "Is something is greater than or equal to five, we add it to the system"
